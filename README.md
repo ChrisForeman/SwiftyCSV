@@ -6,8 +6,7 @@ Convert all of your in code models to a usable CSV.
 Drag-n-drop the `SwiftyCSV.swift` file into your project.
 
 
-**Usage**
-
+**Before Using**
 
 
 Pick the model you'd like to choose like this Product model.
@@ -38,6 +37,7 @@ let testProducts:[Product] = [
 ]
 ```
 
+**Usage**
 
 Create the CSV object
 
